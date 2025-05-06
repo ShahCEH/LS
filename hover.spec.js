@@ -12,5 +12,5 @@ test ('mouse actions', async ({page}) => {
     // await page.click("//a[text()='Table Lamps']")
     // await page.waitForTimeout(3000)
 
-i have changed the coe , now if u execute , it ll show some error 
+
 })
